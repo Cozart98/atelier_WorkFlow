@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GitWorkflow</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="go_google_map">Go GOOGLE MAP</string>
 </resources>
