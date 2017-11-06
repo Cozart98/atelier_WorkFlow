@@ -22,7 +22,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         myRef.setValue("Hello, World!");
-
-        // Read from the database
     }
 }
