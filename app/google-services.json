@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "181944090276",
+    "firebase_url": "https://gitflow-89507.firebaseio.com",
+    "project_id": "gitflow-89507",
+    "storage_bucket": "gitflow-89507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181944090276:android:364f0ce8d369ddbb",
+        "android_client_info": {
+          "package_name": "com.example.apprenti.gitworkflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181944090276-3deejqnsqrp956pgq6p6t2ma6s2qsj8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apprenti.gitworkflow",
+            "certificate_hash": "397ef71fcf424841ed235e83cac8158e0168e995"
+          }
+        },
+        {
+          "client_id": "181944090276-fkfnk74v6fcv5sithcdo8as6lutr85a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbH-CQFuGj5vbEZYkvrmN1Q40Xpotq2iQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181944090276-fkfnk74v6fcv5sithcdo8as6lutr85a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
